@@ -5,4 +5,5 @@ void main() {
   print('this is the first commit');
   print('this is the second commit');
   print('this is the third commit');
+  print('this commit is in the first branch');
 }
