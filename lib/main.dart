@@ -7,4 +7,5 @@ void main() {
   print('this is the third commit');
   print('Change 4 in SecBr');
   print('this line will be merged to master using command ');
+  print('Hello from your friend');
 }
